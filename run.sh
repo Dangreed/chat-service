@@ -1,0 +1,1 @@
+flask --app chat-service run --port=8080 --debug
